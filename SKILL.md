@@ -1,6 +1,31 @@
 ---
-name: seo-geo
-description: SEO & GEO (Generative Engine Optimization) for websites. Analyze keywords, generate schema markup, optimize for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) and traditional search (Google, Bing). Use when user wants to improve search visibility, search optimization, search ranking, AI visibility, ChatGPT ranking, Google AI Overview, indexing, JSON-LD, meta tags, or keyword research.
+name: x402geo-skill
+version: "1.0.0"
+description: 'Use when the user asks to improve search visibility, search optimization, AI visibility, ChatGPT ranking, Google AI Overview presence, indexing, JSON-LD, meta tags, or keyword research for a website. Analyzes keywords, generates schema markup, and optimizes for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) plus traditional search (Google, Bing). For broader site crawling or multi-skill SEO audit workflows, use a dedicated SEO audit library.'
+license: MIT
+compatibility: "Claude Code, skills.sh marketplace, and general SKILL.md-based skill directories. No system packages required beyond Python 3 for the bundled scripts."
+metadata:
+  author: ReScienceLab
+  version: "1.0.0"
+  geo-relevance: "high"
+  tags:
+    - seo
+    - geo
+    - ai-search
+    - schema-markup
+    - json-ld
+    - keyword-research
+    - meta-tags
+    - indexing
+  triggers:
+    - "improve search visibility"
+    - "search optimization"
+    - "AI visibility"
+    - "ChatGPT ranking"
+    - "Google AI Overview"
+    - "keyword research"
+    - "JSON-LD"
+    - "meta tags"
 ---
 
 # SEO/GEO Optimization Skill

@@ -1,5 +1,5 @@
 ---
-name: x402geo-skills
+name: x402geo-skill
 description: Use when an agent needs to run GEO/SEO audits through x402geo.com with payment gating, status tracking, and report delivery via MCP or ACP.
 ---
 
